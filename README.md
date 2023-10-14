@@ -12,3 +12,6 @@ common tools script for tensorflow and pytorch
 
 ## projects
 interesting projects like Homemade front-end interface
+
+## study
+study notes
